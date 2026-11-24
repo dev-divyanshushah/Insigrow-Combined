@@ -133,5 +133,50 @@
     "createdAt": "2026-11-17T13:16:04.948Z",
     "acceptedUserId": "usr_1794921365066_65s8fn9",
     "acceptedAt": "2026-11-17T13:16:05.070Z"
+  },
+  {
+    "id": "inv_1795077056146_xcrymos",
+    "token": "67876d84296dac42e75ad6cc58d25e67f387e979fcd1c82a",
+    "email": "specialist_1795077055964@apexcontact.com",
+    "fullName": "Marcus Brody",
+    "role": "FRONTLINE SPECIALIST",
+    "department": "Customer Support",
+    "organizationName": "Apex Contact Solutions 1795077055964",
+    "invitedBy": "Elena Rostova",
+    "status": "accepted",
+    "expiresAt": "2026-11-26T08:30:56.146Z",
+    "createdAt": "2026-11-19T08:30:56.146Z",
+    "acceptedUserId": "usr_1795077056438_t5f4ssk",
+    "acceptedAt": "2026-11-19T08:30:56.445Z"
+  },
+  {
+    "id": "inv_1795172143944_gzpvfhc",
+    "token": "5526c030b4dea98417b3c1d71fcf3c22ba7f93feaf06c6ab",
+    "email": "specialist_1795172135350@apexcontact.com",
+    "fullName": "Marcus Brody",
+    "role": "FRONTLINE SPECIALIST",
+    "department": "Customer Support",
+    "organizationName": "Apex Contact Solutions 1795172135350",
+    "invitedBy": "Elena Rostova",
+    "status": "accepted",
+    "expiresAt": "2026-11-27T10:55:43.943Z",
+    "createdAt": "2026-11-20T10:55:43.943Z",
+    "acceptedUserId": "usr_1795172147771_5sbzc9y",
+    "acceptedAt": "2026-11-20T10:55:47.774Z"
+  },
+  {
+    "id": "inv_1795512204359_bh3ot0n",
+    "token": "f0d843ef4cd38a4f9fbc8693b264b6390a98de76cba44f88",
+    "email": "specialist_1795512195513@apexcontact.com",
+    "fullName": "Marcus Brody",
+    "role": "FRONTLINE SPECIALIST",
+    "department": "Customer Support",
+    "organizationName": "Apex Contact Solutions 1795512195513",
+    "invitedBy": "Elena Rostova",
+    "status": "accepted",
+    "expiresAt": "2026-12-01T09:23:24.359Z",
+    "createdAt": "2026-11-24T09:23:24.359Z",
+    "acceptedUserId": "usr_1795512208891_ly24by6",
+    "acceptedAt": "2026-11-24T09:23:28.895Z"
   }
 ]

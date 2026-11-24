@@ -2536,5 +2536,347 @@
     "activatedAt": "2026-11-17T13:16:05.227Z",
     "expiresAt": "2026-12-02T13:16:05.227Z",
     "createdAt": "2026-11-17T13:16:05.227Z"
+  },
+  {
+    "id": "trl_1795077053938_5gchnto",
+    "userId": "usr_1795077053924_eh6z0tf",
+    "industry": "fmcg",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:53.938Z",
+    "expiresAt": "2026-12-04T08:30:53.938Z",
+    "createdAt": "2026-11-19T08:30:53.938Z"
+  },
+  {
+    "id": "trl_1795077054143_n1jryc8",
+    "userId": "usr_1795077053924_eh6z0tf",
+    "industry": "manufacturing",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:54.143Z",
+    "expiresAt": "2026-12-04T08:30:54.143Z",
+    "createdAt": "2026-11-19T08:30:54.143Z"
+  },
+  {
+    "id": "trl_1795077054251_v8hxqoj",
+    "userId": "usr_1795077054244_cu7sepe",
+    "industry": "b2b",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:54.251Z",
+    "expiresAt": "2026-12-04T08:30:54.251Z",
+    "createdAt": "2026-11-19T08:30:54.251Z"
+  },
+  {
+    "id": "trl_1795077054350_b27chcq",
+    "userId": "usr_1795077054345_ip1tm9k",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:54.350Z",
+    "expiresAt": "2026-12-04T08:30:54.350Z",
+    "createdAt": "2026-11-19T08:30:54.350Z"
+  },
+  {
+    "id": "trl_1795077055049_3kynsty",
+    "userId": "usr_1795077054853_0790e32",
+    "industry": "fmcg",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:55.049Z",
+    "expiresAt": "2026-12-04T08:30:55.049Z",
+    "createdAt": "2026-11-19T08:30:55.049Z"
+  },
+  {
+    "id": "trl_1795077055057_mnicebu",
+    "userId": "usr_1795077054853_0790e32",
+    "industry": "b2b",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:55.057Z",
+    "expiresAt": "2026-12-04T08:30:55.057Z",
+    "createdAt": "2026-11-19T08:30:55.057Z"
+  },
+  {
+    "id": "trl_expired_test",
+    "userId": "usr_1795077054853_0790e32",
+    "industry": "ca",
+    "status": "active",
+    "activatedAt": "2026-11-03T08:30:55.065Z",
+    "expiresAt": "2026-11-18T08:30:55.065Z",
+    "createdAt": "2026-11-19T08:30:55.065Z"
+  },
+  {
+    "id": "trl_1795077055205_wmaxl5p",
+    "userId": "usr_1795077054853_0790e32",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:55.205Z",
+    "expiresAt": "2026-12-04T08:30:55.205Z",
+    "createdAt": "2026-11-19T08:30:55.205Z"
+  },
+  {
+    "id": "trl_1795077056064_1knbnzo",
+    "userId": "usr_1795077056056_zixuezj",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:56.064Z",
+    "expiresAt": "2026-12-04T08:30:56.064Z",
+    "createdAt": "2026-11-19T08:30:56.064Z"
+  },
+  {
+    "id": "trl_1795077056451_w48y2ql",
+    "userId": "usr_1795077056438_t5f4ssk",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:56.451Z",
+    "expiresAt": "2026-12-04T08:30:56.451Z",
+    "createdAt": "2026-11-19T08:30:56.451Z"
+  },
+  {
+    "id": "trl_1795077056631_d03x7m0",
+    "userId": "test_user_isolation_1795077056626",
+    "industry": "fmcg",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:56.629Z",
+    "expiresAt": "2026-12-04T08:30:56.629Z",
+    "createdAt": "2026-11-19T08:30:56.629Z"
+  },
+  {
+    "id": "trl_1795077056640_8sc4lto",
+    "userId": "test_user_isolation_1795077056626",
+    "industry": "manufacturing",
+    "status": "active",
+    "activatedAt": "2026-11-19T08:30:56.640Z",
+    "expiresAt": "2026-12-04T08:30:56.640Z",
+    "createdAt": "2026-11-19T08:30:56.640Z"
+  },
+  {
+    "id": "trl_1795172119847_uzj11dt",
+    "userId": "usr_1795172119842_dw8jnt5",
+    "industry": "fmcg",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:19.847Z",
+    "expiresAt": "2026-12-05T10:55:19.847Z",
+    "createdAt": "2026-11-20T10:55:19.847Z"
+  },
+  {
+    "id": "trl_1795172126272_tul7fl8",
+    "userId": "usr_1795172119842_dw8jnt5",
+    "industry": "manufacturing",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:26.272Z",
+    "expiresAt": "2026-12-05T10:55:26.272Z",
+    "createdAt": "2026-11-20T10:55:26.272Z"
+  },
+  {
+    "id": "trl_1795172126367_7fsz8vo",
+    "userId": "usr_1795172126364_2itwwlm",
+    "industry": "b2b",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:26.367Z",
+    "expiresAt": "2026-12-05T10:55:26.367Z",
+    "createdAt": "2026-11-20T10:55:26.367Z"
+  },
+  {
+    "id": "trl_1795172130089_v1icx97",
+    "userId": "usr_1795172130086_6u65ldk",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:30.089Z",
+    "expiresAt": "2026-12-05T10:55:30.089Z",
+    "createdAt": "2026-11-20T10:55:30.089Z"
+  },
+  {
+    "id": "trl_1795172134831_y8xpi7p",
+    "userId": "usr_1795172134658_506ixbd",
+    "industry": "fmcg",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:34.831Z",
+    "expiresAt": "2026-12-05T10:55:34.831Z",
+    "createdAt": "2026-11-20T10:55:34.831Z"
+  },
+  {
+    "id": "trl_1795172134836_n0jhsjs",
+    "userId": "usr_1795172134658_506ixbd",
+    "industry": "b2b",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:34.836Z",
+    "expiresAt": "2026-12-05T10:55:34.836Z",
+    "createdAt": "2026-11-20T10:55:34.836Z"
+  },
+  {
+    "id": "trl_expired_test",
+    "userId": "usr_1795172134658_506ixbd",
+    "industry": "ca",
+    "status": "active",
+    "activatedAt": "2026-11-04T10:55:34.842Z",
+    "expiresAt": "2026-11-19T10:55:34.842Z",
+    "createdAt": "2026-11-20T10:55:34.842Z"
+  },
+  {
+    "id": "trl_1795172134925_2k9jing",
+    "userId": "usr_1795172134658_506ixbd",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:34.925Z",
+    "expiresAt": "2026-12-05T10:55:34.925Z",
+    "createdAt": "2026-11-20T10:55:34.925Z"
+  },
+  {
+    "id": "trl_1795172135442_hjnsoki",
+    "userId": "usr_1795172135439_4eidsqa",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:35.442Z",
+    "expiresAt": "2026-12-05T10:55:35.442Z",
+    "createdAt": "2026-11-20T10:55:35.442Z"
+  },
+  {
+    "id": "trl_1795172147777_akdbmfu",
+    "userId": "usr_1795172147771_5sbzc9y",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:47.777Z",
+    "expiresAt": "2026-12-05T10:55:47.777Z",
+    "createdAt": "2026-11-20T10:55:47.777Z"
+  },
+  {
+    "id": "trl_1795172147932_m6h8pt2",
+    "userId": "test_user_isolation_1795172147929",
+    "industry": "fmcg",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:47.931Z",
+    "expiresAt": "2026-12-05T10:55:47.931Z",
+    "createdAt": "2026-11-20T10:55:47.931Z"
+  },
+  {
+    "id": "trl_1795172147938_2ejiojy",
+    "userId": "test_user_isolation_1795172147929",
+    "industry": "manufacturing",
+    "status": "active",
+    "activatedAt": "2026-11-20T10:55:47.938Z",
+    "expiresAt": "2026-12-05T10:55:47.938Z",
+    "createdAt": "2026-11-20T10:55:47.938Z"
+  },
+  {
+    "id": "trl_1795175314867_e0sleft",
+    "userId": "usr_1795175314861_bozenl8",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-20T11:48:34.867Z",
+    "expiresAt": "2026-12-05T11:48:34.867Z",
+    "createdAt": "2026-11-20T11:48:34.867Z"
+  },
+  {
+    "id": "trl_1795175545126_gyqjew9",
+    "userId": "usr_1795175545121_dx4jsuc",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-20T11:52:25.126Z",
+    "expiresAt": "2026-12-05T11:52:25.126Z",
+    "createdAt": "2026-11-20T11:52:25.126Z"
+  },
+  {
+    "id": "trl_1795512178408_b9qtbbl",
+    "userId": "usr_1795512178400_udiy6zp",
+    "industry": "fmcg",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:22:58.408Z",
+    "expiresAt": "2026-12-09T09:22:58.408Z",
+    "createdAt": "2026-11-24T09:22:58.408Z"
+  },
+  {
+    "id": "trl_1795512185048_m0cl9z9",
+    "userId": "usr_1795512178400_udiy6zp",
+    "industry": "manufacturing",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:23:05.048Z",
+    "expiresAt": "2026-12-09T09:23:05.048Z",
+    "createdAt": "2026-11-24T09:23:05.048Z"
+  },
+  {
+    "id": "trl_1795512185156_d89dfkh",
+    "userId": "usr_1795512185152_lo6bc3s",
+    "industry": "b2b",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:23:05.156Z",
+    "expiresAt": "2026-12-09T09:23:05.156Z",
+    "createdAt": "2026-11-24T09:23:05.156Z"
+  },
+  {
+    "id": "trl_1795512190166_d1w1e6y",
+    "userId": "usr_1795512190163_4283a5b",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:23:10.166Z",
+    "expiresAt": "2026-12-09T09:23:10.166Z",
+    "createdAt": "2026-11-24T09:23:10.166Z"
+  },
+  {
+    "id": "trl_1795512194783_d4brpk1",
+    "userId": "usr_1795512194600_htib9yd",
+    "industry": "fmcg",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:23:14.783Z",
+    "expiresAt": "2026-12-09T09:23:14.783Z",
+    "createdAt": "2026-11-24T09:23:14.783Z"
+  },
+  {
+    "id": "trl_1795512194791_rc9ehye",
+    "userId": "usr_1795512194600_htib9yd",
+    "industry": "b2b",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:23:14.791Z",
+    "expiresAt": "2026-12-09T09:23:14.791Z",
+    "createdAt": "2026-11-24T09:23:14.791Z"
+  },
+  {
+    "id": "trl_expired_test",
+    "userId": "usr_1795512194600_htib9yd",
+    "industry": "ca",
+    "status": "active",
+    "activatedAt": "2026-11-08T09:23:14.798Z",
+    "expiresAt": "2026-11-23T09:23:14.798Z",
+    "createdAt": "2026-11-24T09:23:14.798Z"
+  },
+  {
+    "id": "trl_1795512194922_vaifb01",
+    "userId": "usr_1795512194600_htib9yd",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:23:14.922Z",
+    "expiresAt": "2026-12-09T09:23:14.922Z",
+    "createdAt": "2026-11-24T09:23:14.922Z"
+  },
+  {
+    "id": "trl_1795512195609_4pu37zj",
+    "userId": "usr_1795512195605_585lnii",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:23:15.609Z",
+    "expiresAt": "2026-12-09T09:23:15.609Z",
+    "createdAt": "2026-11-24T09:23:15.609Z"
+  },
+  {
+    "id": "trl_1795512208899_8pxe313",
+    "userId": "usr_1795512208891_ly24by6",
+    "industry": "shifts",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:23:28.899Z",
+    "expiresAt": "2026-12-09T09:23:28.899Z",
+    "createdAt": "2026-11-24T09:23:28.899Z"
+  },
+  {
+    "id": "trl_1795512209069_3afoqrk",
+    "userId": "test_user_isolation_1795512209066",
+    "industry": "fmcg",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:23:29.068Z",
+    "expiresAt": "2026-12-09T09:23:29.068Z",
+    "createdAt": "2026-11-24T09:23:29.068Z"
+  },
+  {
+    "id": "trl_1795512209077_j48g1yu",
+    "userId": "test_user_isolation_1795512209066",
+    "industry": "manufacturing",
+    "status": "active",
+    "activatedAt": "2026-11-24T09:23:29.077Z",
+    "expiresAt": "2026-12-09T09:23:29.077Z",
+    "createdAt": "2026-11-24T09:23:29.077Z"
   }
 ]
